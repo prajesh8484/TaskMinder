@@ -20,3 +20,8 @@ function deleteTask(taskElement) {
     li.remove();
 }
 
+document.getElementById("taskInput").addEventListener("keydown", function(event) {
+    if (event.key === "Enter") {
+        addTask();
+    }
+});
