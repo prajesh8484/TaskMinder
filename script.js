@@ -25,3 +25,12 @@ document.getElementById("taskInput").addEventListener("keydown", function(event)
         addTask();
     }
 });
+
+document.addEventListener("keydown", function(event) {
+    if (event.key === "Delete") {
+        var taskList = document.getElementById("taskList");
+        if (taskList.children.length > 0) {
+            taskList.removeChild(taskList.children[0]);
+        }
+    }
+});
