@@ -20,14 +20,22 @@
             <a href="https://github.com" target="_blank" class="github-button">View on GitHub <img class="logo" src="assets/logo.png" alt="logo"></a>
         </div>
     </header>
-    <div class="container">
-        <h1>Todo List</h1>
-        <div class="input-container">
-            <input type="text" id="taskInput" placeholder="Enter a new task" autofocus>
-            <button onclick="addTask()">Add</button>
+    
+<div class="div">
+        <div class="container">
+            <h1>Todo List</h1>
+            <div class="input-container">
+                <input type="text" id="taskInput" placeholder="Enter a new task" autofocus>
+                <button onclick="addTask()">Add</button>
+            </div>
+            <ul id="taskList"></ul>
         </div>
-        <ul id="taskList"></ul>
+    
+        <div class="instructions">
+            <p>Press Enter to add a task and Delete to delete a task.</p>
+        </div>
     </div>
+    
     <script src="script.js"></script>
 </body>
 </html>
