@@ -40,6 +40,14 @@ input[type="text"] {
   border-radius: 4px 0 0 4px;
 }
 
+#taskInput:focus{
+  outline: none;
+}
+
+#taskInput::-moz-focus-inner {
+  border: 0;
+}
+
 button {
   background-color: #2bad4a;
   color: #fff;
