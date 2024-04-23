@@ -137,6 +137,30 @@ li {
   margin-bottom: 2px;
 }
 
+.download-button {
+  color: #fff;
+  font-size: 16px;
+  text-decoration: none;
+  border: solid white 1px;
+  border-radius: 4px;
+  padding: 2px 5px 4px 5px;
+  box-sizing: border-box;
+  margin-right: 15px;
+  margin-top: 3px;
+  transition: color, border-color 0.12s;
+}
+
+.download-button:hover {
+  color: rgb(222, 222, 222);
+  border-color: rgb(222, 222, 222);
+}
+
+.dl {
+  height: 17px;
+  vertical-align: middle;
+  margin-bottom: 3px;
+}
+
 .instructions {
     text-align: center;
     margin-top: 20px;
