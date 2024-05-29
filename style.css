@@ -161,6 +161,36 @@ li {
   margin-bottom: 3px;
 }
 
+.bottom-text {
+  position: fixed;
+  bottom: -9px;
+  right: 10px;
+  color: #666;
+  font-size: 14px;
+  padding: 0px;
+}
+
+a {
+  text-decoration: none;
+  color: #666;
+}
+
+.made-with:hover {
+  text-decoration: underline;
+}
+
+.made-with{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.made-with p:first-child {
+  margin-bottom: -12px; 
+}
+
+
 .instructions {
     text-align: center;
     margin-top: 20px;
@@ -175,7 +205,6 @@ li {
   display: flex;
   flex-direction: column;
 }
-
 @media only screen and (max-width: 600px) {
   .container {
     padding: 10px; 
