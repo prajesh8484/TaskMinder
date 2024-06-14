@@ -214,6 +214,10 @@ a {
     flex-direction: column; 
   }
 
+    .dark-header{
+    height: 66px;
+  }
+
   input[type="text"] {
     margin-right: 7px;
     margin-bottom: 10px;
