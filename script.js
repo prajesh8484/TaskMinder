@@ -71,9 +71,6 @@ function modifyButtons() {
     buttonsContainer.style.alignItems = 'center';
     buttonsContainer.style.justifyContent = 'space-around';
 
-    var githubImageSrc = 'assets/logo.png';
-    var downloadImageSrc = 'assets/download-2-512.png';
-
     var imageHeight = '36px'; 
         githubButton.innerHTML = '<img src="assets/logo.png" alt="GitHub" style="height:' + imageHeight + '; width: 35px;' + '; padding-left: 7px;' + '; padding-right: 7px;' + ';">';
         downloadButton.innerHTML = '<img src="assets/download-2-512.png" alt="Download" style="height: 42px' + '; width: 35px;' + '; padding-left: 5px;' + '; padding-right: 5px;' + ';">';
