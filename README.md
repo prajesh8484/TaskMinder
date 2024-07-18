@@ -8,5 +8,9 @@
 </p>
 
 
+## Description
+
+TaskMinder is a simple to-do list website built using HTML, CSS, and JavaScript. It helps you manage your tasks easily.
+
 
 [Click here to visit the website!](https://thetaskminder.netlify.app/)
