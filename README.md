@@ -18,10 +18,17 @@ TaskMinder is a simple to-do list website built using HTML, CSS, and JavaScript.
 - [Installation](#installation)
 
 
+## Installation
+### Steps
 
+1. **Clone the Repository**
 
+   ```sh
+   git clone https://github.com/prajesh8484/TaskMinder.git
 
-
+2. **Navigate to the Project Directory**
+3. **Open the Project in a Web Browser:**
+ Open the index.html file in your preferred web browser, You can do this by double-clicking the file.
 
 
 
