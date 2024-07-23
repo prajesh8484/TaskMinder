@@ -30,6 +30,9 @@ TaskMinder is a simple to-do list website built using HTML, CSS, and JavaScript.
 3. **Open the Project in a Web Browser:**
  Open the index.html file in your preferred web browser, You can do this by double-clicking the file.
 
+## Features
 
+- **Responsive Design**
+- **Offline Storage**
 
 [Click here to visit the website!](https://thetaskminder.netlify.app/)
