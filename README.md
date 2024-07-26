@@ -16,6 +16,7 @@ TaskMinder is a simple to-do list website built using HTML, CSS, and JavaScript.
 
 - [Description](#description)
 - [Installation](#installation)
+- [Features](#features)
 
 
 ## Installation
