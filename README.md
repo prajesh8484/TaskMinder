@@ -38,4 +38,6 @@ TaskMinder is a simple to-do list website built using HTML, CSS, and JavaScript.
 - **Offline Storage**
 - **Keyboard Support**
 
+## Screenshots
+
 [Click here to visit the website!](https://thetaskminder.netlify.app/)
