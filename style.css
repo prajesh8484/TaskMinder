@@ -7,6 +7,7 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
+  background-image: radial-gradient(circle, #e1d3ff, #e8deff, #efe9ff, #f7f4ff, #fff);
 }
 
 .container {
