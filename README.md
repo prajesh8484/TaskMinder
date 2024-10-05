@@ -11,6 +11,7 @@
 ## Description
 
 TaskMinder is a simple to-do list website built using HTML, CSS, and JavaScript. It helps you manage your tasks easily.
+[Click here to visit the website!](https://thetaskminder.netlify.app/)
 
 ## Table of Contents
 
@@ -39,5 +40,10 @@ TaskMinder is a simple to-do list website built using HTML, CSS, and JavaScript.
 - **Keyboard Support**
 
 ## Screenshots
+<a href="https://thetaskminder.netlify.app/">
+  <div align="center">
+    <img width="70%" src="https://github.com/prajesh8484/prajesh8484/blob/main/assets/thetaskminder-netlify-app-1024xFULLdesktop-5cf977.png" alt="Screenshot">
+  </div>
+</a>
 
-[Click here to visit the website!](https://thetaskminder.netlify.app/)
+---
